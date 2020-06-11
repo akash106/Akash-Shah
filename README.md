@@ -1,7 +1,7 @@
 ## Welcome to Akash's website!
 Here is a picture of me:
 
-
+![FullSizeRender](https://user-images.githubusercontent.com/54324932/84427755-6b128580-abf3-11ea-93af-3491c4b2d663.png)
 
 
 
