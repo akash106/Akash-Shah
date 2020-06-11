@@ -3,14 +3,15 @@ Here is a picture of me:
 
 
 
-# Header 1
-## Header 2
 
-##Social Media
+
+Social Media
 - [Facebook](https://www.facebook.com/akash.shah.50999)
-- List
 
-1. Numbered
-2. List
+
+Some things I have done in High School Are:
+1. I participated in JV track/XC
+2. I participated in Model United Nations
+3. I was a mechanic on the EB first robotics team
 
 
